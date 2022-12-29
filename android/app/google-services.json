@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "193901987670",
+    "project_id": "sorun-takip-191307028",
+    "storage_bucket": "sorun-takip-191307028.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193901987670:android:148bbb73d9cbe02f39b8f7",
+        "android_client_info": {
+          "package_name": "com.example.sorun_takip_sistemi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193901987670-b1mg04fqsn0olgp61m34b16l32vn4okh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC95iw9mgcn6WqdbCyIHghEzvXMzWRSMtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193901987670-b1mg04fqsn0olgp61m34b16l32vn4okh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
